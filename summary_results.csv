@@ -1,0 +1,13 @@
+Classifier,Dataset,Mean Accuracy,Num Results
+ElasticEnsemble,TwoLeadECG,0.9359086918349429,30
+ElasticEnsemble,Coffee,1.0,30
+ElasticEnsemble,UMD,0.972222222222222,30
+KNeighborsTimeSeriesClassifier,TwoLeadECG,0.9043020193151887,30
+KNeighborsTimeSeriesClassifier,Coffee,1.0,30
+KNeighborsTimeSeriesClassifier,UMD,0.8819444444444441,30
+ProximityForest,TwoLeadECG,0.9709979514193737,30
+ProximityForest,Coffee,1.0,30
+ProximityForest,UMD,0.9824074074074074,30
+GRAILClassifier,TwoLeadECG,0.9646180860403862,30
+GRAILClassifier,Coffee,0.988095238095238,30
+GRAILClassifier,UMD,0.7162037037037039,30
